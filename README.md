@@ -1,19 +1,19 @@
-# Portfolio ✨
+# Portfolio 
 
 ### A high-tech, visually stunning, and ultra-polished personal portfolio website with advanced animations, interactions, and effects.
 
-## 🌟 Features
+## Features
 - **Smooth Navigation** - Home, Features, and Contact sections with smooth scrolling.
 - **Advanced Animations** - Stunning visual effects for a futuristic experience.
 - **Dynamic Background** - Includes interactive elements for an immersive look.
 - **Optimized Code** - High-performance, clean, and well-structured.
 - **Contact Form** - Users can submit messages directly from the website.
 
-## 📸 Preview
+## Preview
 ![Screenshot_2025-02-14-14-29-06-90](https://github.com/user-attachments/assets/098623ef-ed3f-4766-bccd-d51c2892fb8a)
 
 
-## 🚀 Deployment
+## Deployment
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/itzsandeepshrma/Portfolio.git
@@ -22,7 +22,7 @@
 
    Give me readme md code in this lines
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML, CSS, JavaScript
 - jQuery for smooth interactions
@@ -30,7 +30,7 @@
 - Optimized animations and effects
 
 
-## 📬 Contact
+## Contact
 
 **For any inquiries, feel free to connect via:**
 
@@ -44,7 +44,7 @@ Let me know if you need any changes!
 
 **This will look clean and professional on your GitHub repository. Let me know if you need any modifications!**
 
-## 📝 License
+## License
 
 **MIT License**
 
