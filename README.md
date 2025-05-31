@@ -9,10 +9,6 @@
 - **Optimized Code** - High-performance, clean, and well-structured.
 - **Contact Form** - Users can submit messages directly from the website.
 
-## Preview
-![Screenshot_2025-02-14-14-29-06-90](https://github.com/user-attachments/assets/098623ef-ed3f-4766-bccd-d51c2892fb8a)
-
-
 ## Deployment
 1. **Clone the Repository**
    ```sh
@@ -38,7 +34,7 @@
 
 **Instagram:** [itzsandeepshrma](https://instagram.com/itz_sandeep_shrma)
 
-**© 𝚂αɴɖεερ 𝚂ʜαяɱα All Right Reserved**
+**© sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ All Right Reserved**
 
 Let me know if you need any changes!
 
@@ -48,7 +44,7 @@ Let me know if you need any changes!
 
 **MIT License**
 
-**Copyright (c) 2025 𝚂αɴɖεερ 𝚂ʜαяɱα**
+**Copyright (c) 2025 sᴧɴᴅᴇᴇᴘ sʜᴧʀᴍᴧ**
 
 **Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
